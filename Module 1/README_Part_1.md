@@ -2,7 +2,7 @@ This notebook serves as a practical guide for interacting with Google's GenAI mo
 
 ---
 
-## Case Study: Iterative Development via Programmatic Prompting
+## Part 1: Iterative Development via Programmatic Prompting
 
 ### Execution Environment & Model Details
 - **Model:** `gemini-flash-lite-latest`
