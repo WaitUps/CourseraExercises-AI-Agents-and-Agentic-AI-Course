@@ -1,5 +1,8 @@
+This notebook serves as a practical guide for interacting with Google's GenAI models using the Python SDK. It demonstrates a **"Quasi-Agentic" workflow** by maintaining a persistent message memory, allowing the LLM to build upon previous outputs to refine code, add documentation, and generate a testing suite.
 
-## 🏗 Case Study: Iterative Development via Programmatic Prompting
+---
+
+## Case Study: Iterative Development via Programmatic Prompting
 
 ### Execution Environment & Model Details
 - **Model:** `gemini-flash-lite-latest`
